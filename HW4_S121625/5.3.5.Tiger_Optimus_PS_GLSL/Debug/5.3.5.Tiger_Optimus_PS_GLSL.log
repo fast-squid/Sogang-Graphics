@@ -1,0 +1,24 @@
+﻿  5.3.5.Tiger_Optimus_PS_GLSL.cpp
+c:\users\이정명\desktop\7학기\graphics\hw4_s121625\5.3.5.tiger_optimus_ps_glsl\object.h(20): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\이정명\desktop\7학기\graphics\hw4_s121625\5.3.5.tiger_optimus_ps_glsl\object.h(21): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\이정명\desktop\7학기\graphics\hw4_s121625\5.3.5.tiger_optimus_ps_glsl\object.h(22): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\이정명\desktop\7학기\graphics\hw4_s121625\5.3.5.tiger_optimus_ps_glsl\5.3.5.tiger_optimus_ps_glsl.cpp(292): warning C4244: '=': 'GLint'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\이정명\desktop\7학기\graphics\hw4_s121625\5.3.5.tiger_optimus_ps_glsl\5.3.5.tiger_optimus_ps_glsl.cpp(307): warning C4244: '=': 'GLint'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\이정명\desktop\7학기\graphics\hw4_s121625\5.3.5.tiger_optimus_ps_glsl\5.3.5.tiger_optimus_ps_glsl.cpp(331): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\이정명\desktop\7학기\graphics\hw4_s121625\5.3.5.tiger_optimus_ps_glsl\5.3.5.tiger_optimus_ps_glsl.cpp(489): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\이정명\desktop\7학기\graphics\hw4_s121625\5.3.5.tiger_optimus_ps_glsl\5.3.5.tiger_optimus_ps_glsl.cpp(491): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\이정명\desktop\7학기\graphics\hw4_s121625\5.3.5.tiger_optimus_ps_glsl\5.3.5.tiger_optimus_ps_glsl.cpp(500): warning C4390: ';': 제어된 빈 문이 있습니다. 이 문이 필요합니까?
+c:\users\이정명\desktop\7학기\graphics\hw4_s121625\5.3.5.tiger_optimus_ps_glsl\5.3.5.tiger_optimus_ps_glsl.cpp(649): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\이정명\desktop\7학기\graphics\hw4_s121625\5.3.5.tiger_optimus_ps_glsl\5.3.5.tiger_optimus_ps_glsl.cpp(650): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\이정명\desktop\7학기\graphics\hw4_s121625\5.3.5.tiger_optimus_ps_glsl\5.3.5.tiger_optimus_ps_glsl.cpp(651): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\이정명\desktop\7학기\graphics\hw4_s121625\5.3.5.tiger_optimus_ps_glsl\5.3.5.tiger_optimus_ps_glsl.cpp(652): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\이정명\desktop\7학기\graphics\hw4_s121625\5.3.5.tiger_optimus_ps_glsl\5.3.5.tiger_optimus_ps_glsl.cpp(653): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\이정명\desktop\7학기\graphics\hw4_s121625\5.3.5.tiger_optimus_ps_glsl\5.3.5.tiger_optimus_ps_glsl.cpp(654): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\이정명\desktop\7학기\graphics\hw4_s121625\5.3.5.tiger_optimus_ps_glsl\5.3.5.tiger_optimus_ps_glsl.cpp(657): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\이정명\desktop\7학기\graphics\hw4_s121625\5.3.5.tiger_optimus_ps_glsl\5.3.5.tiger_optimus_ps_glsl.cpp(658): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\이정명\desktop\7학기\graphics\hw4_s121625\5.3.5.tiger_optimus_ps_glsl\5.3.5.tiger_optimus_ps_glsl.cpp(659): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\이정명\desktop\7학기\graphics\hw4_s121625\5.3.5.tiger_optimus_ps_glsl\5.3.5.tiger_optimus_ps_glsl.cpp(660): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\이정명\desktop\7학기\graphics\hw4_s121625\5.3.5.tiger_optimus_ps_glsl\5.3.5.tiger_optimus_ps_glsl.cpp(661): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\이정명\desktop\7학기\graphics\hw4_s121625\5.3.5.tiger_optimus_ps_glsl\5.3.5.tiger_optimus_ps_glsl.cpp(662): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\이정명\desktop\7학기\graphics\hw4_s121625\5.3.5.tiger_optimus_ps_glsl\5.3.5.tiger_optimus_ps_glsl.cpp(770): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  5.3.5.Tiger_Optimus_PS_GLSL.vcxproj -> C:\Users\이정명\Desktop\7학기\graphics\HW4_S121625\Debug\5.3.5.Tiger_Optimus_PS_GLSL.exe

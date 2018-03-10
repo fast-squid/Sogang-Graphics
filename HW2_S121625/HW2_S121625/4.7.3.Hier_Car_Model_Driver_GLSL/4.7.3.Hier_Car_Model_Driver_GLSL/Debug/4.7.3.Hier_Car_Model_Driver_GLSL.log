@@ -1,0 +1,19 @@
+﻿  LoadShaders.cpp
+c:\users\이정명\desktop\7학기\graphics\hw2_s121625_org\hw2_s121625\4.7.3.hier_car_model_driver_glsl\4.7.3.hier_car_model_driver_glsl\shaders\loadshaders.cpp(11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+  4.7.3.Hier_Car_Model_Driver_GLSL.cpp
+c:\users\이정명\desktop\7학기\graphics\hw2_s121625_org\hw2_s121625\4.7.3.hier_car_model_driver_glsl\4.7.3.hier_car_model_driver_glsl\geometry.h(311): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\이정명\desktop\7학기\graphics\hw2_s121625_org\hw2_s121625\4.7.3.hier_car_model_driver_glsl\4.7.3.hier_car_model_driver_glsl\geometry.h(312): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\이정명\desktop\7학기\graphics\hw2_s121625_org\hw2_s121625\4.7.3.hier_car_model_driver_glsl\4.7.3.hier_car_model_driver_glsl\geometry.h(313): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\이정명\desktop\7학기\graphics\hw2_s121625_org\hw2_s121625\4.7.3.hier_car_model_driver_glsl\4.7.3.hier_car_model_driver_glsl\4.7.3.hier_car_model_driver_glsl.cpp(71): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\이정명\desktop\7학기\graphics\hw2_s121625_org\hw2_s121625\4.7.3.hier_car_model_driver_glsl\4.7.3.hier_car_model_driver_glsl\4.7.3.hier_car_model_driver_glsl.cpp(73): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\이정명\desktop\7학기\graphics\hw2_s121625_org\hw2_s121625\4.7.3.hier_car_model_driver_glsl\4.7.3.hier_car_model_driver_glsl\4.7.3.hier_car_model_driver_glsl.cpp(139): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\이정명\desktop\7학기\graphics\hw2_s121625_org\hw2_s121625\4.7.3.hier_car_model_driver_glsl\4.7.3.hier_car_model_driver_glsl\4.7.3.hier_car_model_driver_glsl.cpp(140): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\이정명\desktop\7학기\graphics\hw2_s121625_org\hw2_s121625\4.7.3.hier_car_model_driver_glsl\4.7.3.hier_car_model_driver_glsl\4.7.3.hier_car_model_driver_glsl.cpp(246): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\이정명\desktop\7학기\graphics\hw2_s121625_org\hw2_s121625\4.7.3.hier_car_model_driver_glsl\4.7.3.hier_car_model_driver_glsl\4.7.3.hier_car_model_driver_glsl.cpp(240): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+c:\users\이정명\desktop\7학기\graphics\hw2_s121625_org\hw2_s121625\4.7.3.hier_car_model_driver_glsl\4.7.3.hier_car_model_driver_glsl\4.7.3.hier_car_model_driver_glsl.cpp(240): warning C4101: 'b' :참조되지 않은 지역 변수입니다.
+c:\users\이정명\desktop\7학기\graphics\hw2_s121625_org\hw2_s121625\4.7.3.hier_car_model_driver_glsl\4.7.3.hier_car_model_driver_glsl\4.7.3.hier_car_model_driver_glsl.cpp(392): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\이정명\desktop\7학기\graphics\hw2_s121625_org\hw2_s121625\4.7.3.hier_car_model_driver_glsl\4.7.3.hier_car_model_driver_glsl\4.7.3.hier_car_model_driver_glsl.cpp(402): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\이정명\desktop\7학기\graphics\hw2_s121625_org\hw2_s121625\4.7.3.hier_car_model_driver_glsl\4.7.3.hier_car_model_driver_glsl\4.7.3.hier_car_model_driver_glsl.cpp(628): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  4.7.3.Hier_Car_Model_Driver_GLSL.vcxproj -> C:\Users\이정명\Desktop\7학기\graphics\HW2_S121625_org\HW2_S121625\4.7.3.Hier_Car_Model_Driver_GLSL\Debug\4.7.3.Hier_Car_Model_Driver_GLSL.exe
